@@ -1,0 +1,7 @@
+{
+    "name": "Just",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["Just"],
+    "repository": "https://github.com/DangDev/JustNothing",
+    "stack": "container"
+}
